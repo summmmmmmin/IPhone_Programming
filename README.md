@@ -260,6 +260,6 @@
 
 <div align="center">
 
-**iOS 팀 프로젝트 4인 | SwiftUI + PHP REST API 44개 엔드포인트**
+**iOS 팀 프로젝트 4인 | SwiftUI + PHP REST API 47개 엔드포인트**
 
 </div>
