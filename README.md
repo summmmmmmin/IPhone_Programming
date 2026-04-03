@@ -94,7 +94,7 @@
 | **언어** | Swift | |
 | **UI 프레임워크** | SwiftUI | `@State` · `@Binding` · `NavigationView` · `TabView` |
 | **네트워킹** | URLSession | POST · URL-encoded form data · `Codable` JSON 디코딩 |
-| **백엔드** | PHP | REST API 44개 엔드포인트 |
+| **백엔드** | PHP | REST API 47개 엔드포인트 |
 | **데이터베이스** | MySQL | 팀 · 멤버십 · 프로젝트 · 태스크 · 미팅 · 공지 |
 | **세션** | UserDefaults | `LoggedInUser`(userId) · `SelectedTeam`(teamId) 유지 |
 | **이미지** | AsyncImage | 프로필 사진 비동기 로드 |
@@ -197,7 +197,7 @@
 
 ---
 
-## 🌐 API 엔드포인트 44개
+## 🌐 API 엔드포인트 47개
 
 <details>
 <summary>전체 목록 펼쳐보기</summary>
